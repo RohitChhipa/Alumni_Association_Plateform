@@ -1,0 +1,11 @@
+{
+  "enrollment": "123456",
+  "year": "2nd",
+  "department": "Computer Science",
+  "contact": "123-456-7890",
+  "skills": "JavaScript, React, Node.js",
+  "linkedin": "https://www.linkedin.com/in/johndoe",
+  "leetcode": "johndoe",
+  "codechef": "johndoe",
+  "github": "johndoe"
+}
